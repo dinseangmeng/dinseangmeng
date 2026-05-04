@@ -77,7 +77,6 @@ Co-founder of **[Savada Team](https://savadateam.com)** — a software company b
 All our products support Khmer language natively:
 
 - Khmer fonts in PDF/Excel exports (Khmer OS Muol Light, Siemreap)
-- Khmer lunar calendar integration (`momentkh`)
 - Full Khmer UI across client-facing applications
 
 ---
