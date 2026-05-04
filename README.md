@@ -81,16 +81,6 @@ All our products support Khmer language natively:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinseangmeng&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a90d9&icon_color=4a90d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinseangmeng&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a90d9)
-
-</div>
-
 ---
 
 ## 📫 Contact
