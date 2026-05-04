@@ -6,7 +6,7 @@
 [![Savada Team](https://img.shields.io/badge/Savada_Team-1a1a2e?style=for-the-badge&logoColor=white)](https://savadateam.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinseangmeng@savadateam.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/savadateam)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dinseangmeng.xyz)
 
 </div>
 
@@ -50,12 +50,14 @@ Co-founder of **[Savada Team](https://savadateam.com)** — a software company b
 
 ## 📦 Projects
 
+> 🏢 All projects below are built and delivered by **[Savada Team](https://savadateam.com)**
+
 | Project | Description | Platform |
 |--------|-------------|----------|
-| 🎸 **KhmerChords** | Khmer guitar chords app for musicians and learners | [Google Play](https://play.google.com/store/apps/details?id=com.vh.khmerchords) |
-| 🎵 **KhmerWorship** | Worship songs platform for Khmer-speaking communities | [Google Play](https://play.google.com/store/apps/details?id=com.vh.khmerworship) |
-| 🎼 **KhmerSheetMusic** | Digital sheet music app for Cambodian musicians | [Google Play](https://play.google.com/store/apps/details?id=com.pheak.khmersheetmusic) |
-| 🏠 **Blessed Realty** | Real estate listing platform | Web |
+| 🎸 **KhmerChords** | Khmer guitar chords app for musicians and learners | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vh.khmerchords) |
+| 🎵 **KhmerWorship** | Worship songs platform for Khmer-speaking communities | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vh.khmerworship) |
+| 🎼 **KhmerSheetMusic** | Digital sheet music app for Cambodian musicians | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pheak.khmersheetmusic) |
+| 🏠 **Blessed Realty** | Real estate listing platform | [![Web](https://img.shields.io/badge/Web-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white)](#) |
 
 ---
 
