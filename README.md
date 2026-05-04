@@ -1,104 +1,111 @@
-<h2 align="left">Hi 👋! My name is DIN SEANGMENG and I'm a Software Engineer, from Cambodia</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&username=dinseangmeng" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=dinseangmeng" height="150" alt="languages graph"  />
+
+# 👋 DIN SEANGMENG
+### Co-founder & Full-Stack Developer · Savada Team 🇰🇭
+
+[![Savada Team](https://img.shields.io/badge/Savada_Team-1a1a2e?style=for-the-badge&logoColor=white)](https://savadateam.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinseangmeng@savadateam.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/savadateam)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+
 </div>
 
-###
+---
 
-<h2 align="left">Programing/Mark Up</h2>
+## 🚀 About Me
 
-###
+Co-founder of **[Savada Team](https://savadateam.com)** — a software company based in Phnom Penh, Cambodia, building custom web systems, business automation, and mobile apps.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" width="42" alt="digitalocean logo"  />
-</div>
+- 💼 **Focus**: Custom web applications, HR/attendance systems, API integrations, POS
+- 🌏 **Based in**: Phnom Penh, Cambodia
+- 🛵 **Rides**: Honda Zoomer-X
 
-###
+> *Innovative Solutions for Business Problems*
 
-<h2 align="left">Frame Work</h2>
+---
 
-###
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-</div>
+**Backend**
 
-###
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 
-<h2 align="left">IDE</h2>
+**Frontend**
 
-###
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="40" width="52" alt="codepen logo"  />
-</div>
+**Database & Infra**
 
-###
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-<h2 align="left">Control Flow</h2>
+---
 
-###
+## 📦 Projects
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="52" alt="bitbucket logo"  />
-</div>
+| Project | Description | Platform |
+|--------|-------------|----------|
+| 🎸 **KhmerChords** | Khmer guitar chords app for musicians and learners | [Google Play](https://play.google.com/store/apps/details?id=com.vh.khmerchords) |
+| 🎵 **KhmerWorship** | Worship songs platform for Khmer-speaking communities | [Google Play](https://play.google.com/store/apps/details?id=com.vh.khmerworship) |
+| 🎼 **KhmerSheetMusic** | Digital sheet music app for Cambodian musicians | [Google Play](https://play.google.com/store/apps/details?id=com.pheak.khmersheetmusic) |
+| 🏠 **Blessed Realty** | Real estate listing platform | Web |
 
-###
+---
 
-<h2 align="left">Server / Technology</h2>
+## ⚙️ What We Build
 
-###
+- 🖥️ **Custom Web Systems** — business dashboards, internal tools, multi-tenant SaaS
+- 👥 **HR & Attendance** — shift management, GPS tracking, face recognition, Telegram notifications
+- 🔗 **API Integrations** — third-party services, payment gateways, hardware devices
+- 🏪 **POS Systems** — tailored for the Cambodian market
+- 📱 **Mobile Apps** — Android apps published on Google Play
+- ⚙️ **DevOps** — Docker, nginx, self-hosted GitLab, mail server, SSL
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-</div>
+---
 
-###
+## 🌏 Khmer Language Support
 
-<div align="center">
-  <a href="https://www.instagram.com/seangmengdin/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="dinseangmeng@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dinseangmeng/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://facebook.com/dinseangmeng" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://t.me/dinseangmeng" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+All our products support Khmer language natively:
 
-###
+- Khmer fonts in PDF/Excel exports (Khmer OS Muol Light, Siemreap)
+- Khmer lunar calendar integration (`momentkh`)
+- Full Khmer UI across client-facing applications
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dinseangmeng.dinseangmeng&left_color=dimgrey"  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinseangmeng&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a90d9&icon_color=4a90d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinseangmeng&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a90d9)
+
 </div>
 
-###
+---
+
+## 📫 Contact
+
+| | |
+|---|---|
+| 📧 Email | [dinseangmeng@savadateam.com](mailto:dinseangmeng@savadateam.com) |
+| 📱 Phone | 071 984 8401 |
+| 🌐 Website | [savadateam.com](https://savadateam.com) |
+| 💬 Telegram | [@savadateam_bot](https://t.me/savadateam_bot) |
+| 📘 Facebook | [facebook.com/savadateam](https://facebook.com/savadateam) |
+
+---
+
+<div align="center">
+
+*Built with ❤️ in Phnom Penh, Cambodia 🇰🇭*
+
+</div>
