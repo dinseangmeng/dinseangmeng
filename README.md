@@ -100,7 +100,7 @@ All our products support Khmer language natively:
 | 📧 Email | [dinseangmeng@savadateam.com](mailto:dinseangmeng@savadateam.com) |
 | 📱 Phone | 071 984 8401 |
 | 🌐 Website | [savadateam.com](https://savadateam.com) |
-| 💬 Telegram | [@savadateam_bot](https://t.me/savadateam_bot) |
+| 💬 Telegram | [Savada Team Telegram](https://t.me/savadateam_bot) |
 | 📘 Facebook | [facebook.com/savadateam](https://facebook.com/savadateam) |
 
 ---
