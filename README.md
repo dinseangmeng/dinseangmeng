@@ -18,7 +18,6 @@ Co-founder of **[Savada Team](https://savadateam.com)** — a software company b
 
 - 💼 **Focus**: Custom web applications, HR/attendance systems, API integrations, POS
 - 🌏 **Based in**: Phnom Penh, Cambodia
-- 🛵 **Rides**: Honda Zoomer-X
 
 > *Innovative Solutions for Business Problems*
 
@@ -37,12 +36,14 @@ Co-founder of **[Savada Team](https://savadateam.com)** — a software company b
 **Frontend**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Database & Infra**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
